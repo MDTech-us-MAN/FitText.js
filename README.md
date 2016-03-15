@@ -1,4 +1,4 @@
-# Available on GitHub Pages from: mdtech-us-man.github.io/FitText.js
+# Available on GitHub Pages from: http://mdtech-us-man.github.io/FitText.js/fittext.js/
 
 ## FitText.js, a <del>jQuery plugin</del> tiny script for inflating web type
 FitText makes font-sizes flexible. Use this <del>plugin</del> script on your fluid or responsive layout to achieve scalable headlines that fill the width of a parent element.

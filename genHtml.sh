@@ -12,7 +12,7 @@ do
 			
 			echo '<html>' > index.html;
 			echo '    <head>' >> index.html;
-			echo "        <title>crypto-js - ${SubDir}</title>" >> index.html
+			echo "        <title>FitText.js (no jQuery) - ${SubDir}</title>" >> index.html
 			echo '    </head>' >> index.html;
 			echo '    <body>' >> index.html;
 			echo '        <h1>File List</h1>' >> index.html;
