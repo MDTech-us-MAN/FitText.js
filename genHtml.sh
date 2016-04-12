@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Copyright (c) Maxwell Dreytser
+
 for D in `find . -type d`;
 do
 	if [[ $D != *'.git'* ]]; then
