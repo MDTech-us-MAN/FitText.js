@@ -41,7 +41,7 @@ do
 			for SubFile in `find -mindepth 1 -maxdepth 1 -not -path '*/\.*' -type f`; do
 				MySubFile=${SubFile/\.\//};
 				
-				if [[ $MySubFile != index.html ]]; then
+				if [[ $MySubFile != 'index.html' && $MySubFile != 'genHtml.sh' ]]; then
 					echo "    $MySubFile";
 				
 			echo '            <tr>' >> index.html;
